@@ -19,7 +19,7 @@
       <a href="https://stackoverflow.com/users/19247380/ojee">
          <img alt="stackoverflow" title="Stack Overflow" src="https://img.shields.io/badge/stackoverflow-F48225?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
       <a href="https://www.buymeacoffee.com/ojee">
-         <img alt="buymeacoffee" title="Buy me a coffee" src="https://img.shields.io/badge/buymeacoffee-FFE01A?style=for-the-badge&logo=buymeacoffee&logoColor=black"/></a>
+         <img alt="buymeacoffee" title="Buy me a coffee" src="https://img.shields.io/badge/buy_me_a_coffee-FFE01A?style=for-the-badge&logo=buymeacoffee&logoColor=black"/></a>
    </p>
 
 ---
