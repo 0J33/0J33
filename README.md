@@ -5,11 +5,11 @@
 <!--    <p align="left"> <img src="https://komarev.com/ghpvc/?username=0J33&label=Profile%20views&color=0e75b6&style=flat" alt="0J33" /> </p> -->
 
    <p align="left">
-      <a href="https://github.com/0J33?tab=followers">
+<!--       <a href="https://github.com/0J33?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/0J33?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/0J33?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/0J33?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-      <br />
+      <br /> -->
       <a href="https://ojee.net">
          <img alt="website" title="My Website" src="https://custom-icon-badges.demolab.com/badge/-Website-00FFFF?style=for-the-badge&logo=globe&logoColor=black%22"/></a>
       <a href="mailto:contact@ojee.net?subiect=contact@ojee.net">
