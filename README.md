@@ -1,4 +1,4 @@
-# Ojee
+<h1 align="center">Ojee</h1>
 
 **`CSEN student, programmer, and engineer.`**
 
@@ -51,6 +51,9 @@
 
 ### Stats
 
-![0J33's GitHub stats](https://github-readme-stats.vercel.app/api?username=0J33&show_icons=true&theme=react)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=0J33&theme=react&border_radius=4.5)
+<div align="center">
+   
+   ![0J33's GitHub stats](https://github-readme-stats.vercel.app/api?username=0J33&show_icons=true&theme=react)
+   ![GitHub Streak](https://streak-stats.demolab.com?user=0J33&theme=react&border_radius=4.5)
+   
+</div>
