@@ -8,6 +8,7 @@
          <img alt="website" title="My Website" src="https://custom-icon-badges.demolab.com/badge/-ojee.net-00FFFF?style=for-the-badge&logo=globe&logoColor=black%22"/></a>
       <a href="mailto:contact@ojee.net?subiect=contact@ojee.net">
          <img alt="email" title="My email" src="https://custom-icon-badges.demolab.com/badge/-contact@ojee.net-00AAAA?style=for-the-badge&logo=mention&logoColor=white%22"/></a>
+      <br />
       <a href="https://www.linkedin.com/in/omargamaleldin/">
          <img alt="linkedin" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
       <a href="https://stackoverflow.com/users/19247380/ojee">
