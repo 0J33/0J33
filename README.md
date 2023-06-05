@@ -60,7 +60,7 @@
 
 ### Stats
 
-<div align="center">
+<div align="left">
    
    ![0J33's GitHub stats](https://github-readme-stats.vercel.app/api?username=0J33&show_icons=true&theme=react)
    ![GitHub Streak](https://streak-stats.demolab.com?user=0J33&theme=react&border_radius=4.5)
