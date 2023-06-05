@@ -11,7 +11,7 @@
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/0J33?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
       <br /> -->
       <a href="https://ojee.net">
-         <img alt="website" title="My Website" src="https://custom-icon-badges.demolab.com/badge/-Website-00FFFF?style=for-the-badge&logo=globe&logoColor=black%22"/></a>
+         <img alt="website" title="My Website" src="https://custom-icon-badges.demolab.com/badge/-ojee.net-00FFFF?style=for-the-badge&logo=globe&logoColor=black%22"/></a>
       <a href="mailto:contact@ojee.net?subiect=contact@ojee.net">
          <img alt="email" title="My email" src="https://custom-icon-badges.demolab.com/badge/-contact@ojee.net-00AAAA?style=for-the-badge&logo=mention&logoColor=white%22"/></a>
       <a href="https://www.linkedin.com/in/omargamaleldin/">
