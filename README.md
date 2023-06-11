@@ -2,12 +2,14 @@
 
    <p align="center">
       <a href="https://ojee.net">
-         <img alt="website" title="My Website" src="https://custom-icon-badges.demolab.com/badge/-CSEN_student,_programmer,_and_engineer.-111111?style=for-the-badge&logo=&logoColor=black%22"/></a>
+         <img alt="about" title="About me" src="https://custom-icon-badges.demolab.com/badge/-CSEN_student,_programmer,_and_engineer.-111111?style=for-the-badge&logo=&logoColor=black%22"/></a>
       <br />
       <a href="https://ojee.net">
          <img alt="website" title="My Website" src="https://custom-icon-badges.demolab.com/badge/-ojee.net-00FFFF?style=for-the-badge&logo=globe&logoColor=black%22"/></a>
+      <a href="https://ojee.net/bluef1ag">
+         <img alt="website" title="Blue F1ag" src="https://custom-icon-badges.demolab.com/badge/-ojee.net/bluef1ag-000022?style=for-the-badge&logo=globe&logoColor=white%22"/></a>
       <a href="mailto:contact@ojee.net?subiect=contact@ojee.net">
-         <img alt="email" title="My email" src="https://custom-icon-badges.demolab.com/badge/-contact@ojee.net-00AAAA?style=for-the-badge&logo=mention&logoColor=white%22"/></a>
+         <img alt="email" title="My email" src="https://custom-icon-badges.demolab.com/badge/-contact@ojee.net-00AAAA?style=for-the-badge&logo=mail&logoColor=white%22"/></a>
       <br />
       <a href="https://www.linkedin.com/in/omargamaleldin/">
          <img alt="linkedin" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
