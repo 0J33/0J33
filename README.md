@@ -67,7 +67,7 @@
       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/0J33?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    <br /><br />
    
-   ![0J33's GitHub stats](https://github-readme-stats.vercel.app/api?username=0J33&show_icons=true&theme=react)
-   ![GitHub Streak](https://streak-stats.demolab.com?user=0J33&theme=react&border_radius=4.5)
+<!--    ![0J33's GitHub stats](https://github-readme-stats.vercel.app/api?username=0J33&show_icons=true&theme=react)
+   ![GitHub Streak](https://streak-stats.demolab.com?user=0J33&theme=react&border_radius=4.5) -->
    
 </div>
