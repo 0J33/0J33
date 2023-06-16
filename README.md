@@ -1,5 +1,5 @@
    <p align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Proto+Medium&size=24&duration=3000&pause=0000&color=00AAAA&center=true&vCenter=true&multiline=true&width=750&height=100&lines=Hi!+I'm+Ojee!;CSEN+Student%2C+Programmer%2C+and+Engineer." alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=OCR+A&size=24&duration=3000&pause=0000&color=00AAAA&center=true&vCenter=true&multiline=true&width=750&height=100&lines=HI!+I'M+OJEE!;CSEN+STUDENT%2C+PROGRAMMER%2C+AND+ENGINEER." alt="Typing SVG" /></a>
       <br />
 <!--       <a href="https://ojee.net">
          <img alt="about" title="About me" src="https://custom-icon-badges.demolab.com/badge/-CSEN_student,_programmer,_and_engineer.-111111?style=for-the-badge&logo=&logoColor=black%22"/></a>
