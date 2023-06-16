@@ -1,5 +1,3 @@
-<h1 align="center">Ojee</h1>
-
    <p align="center">
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Proto+Medium&size=14&duration=3000&color=00AAAA&center=true&vCenter=true&multiline=true&width=435&lines=Hi!+I'm+Ojee!;CSEN+student%2C+programmer%2C+and+engineer." alt="Typing SVG" /></a>
       <br /><br />
