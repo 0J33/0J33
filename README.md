@@ -1,9 +1,11 @@
 <h1 align="center">Ojee</h1>
 
    <p align="center">
-      <a href="https://ojee.net">
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Proto+Medium&size=14&duration=3000&color=00AAAA&center=true&vCenter=true&multiline=true&width=435&lines=Hi!+I'm+Ojee!;CSEN+student%2C+programmer%2C+and+engineer." alt="Typing SVG" /></a>
+      <br /><br />
+<!--       <a href="https://ojee.net">
          <img alt="about" title="About me" src="https://custom-icon-badges.demolab.com/badge/-CSEN_student,_programmer,_and_engineer.-111111?style=for-the-badge&logo=&logoColor=black%22"/></a>
-      <br />
+      <br /> -->
       <a href="https://ojee.net">
          <img alt="website" title="My Website" src="https://custom-icon-badges.demolab.com/badge/-ojee.net-00FFFF?style=for-the-badge&logo=globe&logoColor=black%22"/></a>
       <a href="https://ojee.net/bluef1ag">
