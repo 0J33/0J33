@@ -33,7 +33,8 @@
    <img alt="linux" title="Linux" src="https://custom-icon-badges.demolab.com/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
    <img alt="ubuntu" title="Ubuntu" src="https://custom-icon-badges.demolab.com/badge/-ubuntu-dd4814?style=for-the-badge&logo=ubuntu&logoColor=white"/>
    <img alt="bash" title="Bash" src="https://custom-icon-badges.demolab.com/badge/-bash-313131?style=for-the-badge&logo=bash&logoColor=black"/>
-   <img alt="git" title="GIT" src="https://custom-icon-badges.demolab.com/badge/-git-f34f29?style=for-the-badge&logo=git&logoColor=white"/>
+   <img alt="git" title="Git" src="https://custom-icon-badges.demolab.com/badge/-git-f34f29?style=for-the-badge&logo=git&logoColor=white"/>
+   <img alt="github" title="Github" src="https://custom-icon-badges.demolab.com/badge/-github-171515?style=for-the-badge&logo=github&logoColor=white"/>
    <br />
    <img alt="html" title="HTML" src="https://custom-icon-badges.demolab.com/badge/-html-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
    <img alt="css" title="CSS" src="https://custom-icon-badges.demolab.com/badge/-css-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
