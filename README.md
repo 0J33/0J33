@@ -44,7 +44,7 @@
    <img alt="node js" title="Node JS" src="https://custom-icon-badges.demolab.com/badge/-node js-3c873a?style=for-the-badge&logo=nodejs&logoColor=white"/>
    <img alt="ejs" title="EJS" src="https://custom-icon-badges.demolab.com/badge/-ejs-90A93A?style=for-the-badge&logo=ejs&logoColor=white"/>
    <br />
-   <img alt="python" title="Python" src="https://custom-icon-badges.demolab.com/badge/-python-ffde57?style=for-the-badge&logo=python&logoColor=black"/>
+   <img alt="python" title="Python" src="https://custom-icon-badges.demolab.com/badge/-python-4b8bbe?style=for-the-badge&logo=python&logoColor=white"/>
    <img alt="discord py" title="Discord Py" src="https://custom-icon-badges.demolab.com/badge/-discord py-7289d9?style=for-the-badge&logo=discord&logoColor=white"/>
    <img alt="jupyter" title="Jupyter" src="https://custom-icon-badges.demolab.com/badge/-jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white"/>
    <img alt="flask" title="Flask" src="https://custom-icon-badges.demolab.com/badge/-flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
