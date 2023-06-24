@@ -26,6 +26,7 @@
 <div align="center">
    <div>
    <img alt="vs code" title="VS Code" src="https://custom-icon-badges.demolab.com/badge/-vs code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+   <img alt="vs" title="VS" src="https://custom-icon-badges.demolab.com/badge/-vs-603b74?style=for-the-badge&logo=visualstudio&logoColor=white"/>
    <img alt="linux" title="Linux" src="https://custom-icon-badges.demolab.com/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
    <img alt="ubuntu" title="Ubuntu" src="https://custom-icon-badges.demolab.com/badge/-ubuntu-dd4814?style=for-the-badge&logo=ubuntu&logoColor=white"/>
    <img alt="bash" title="Bash" src="https://custom-icon-badges.demolab.com/badge/-bash-313131?style=for-the-badge&logo=bash&logoColor=black"/>
@@ -37,15 +38,21 @@
    <img alt="ts" title="TS" src="https://custom-icon-badges.demolab.com/badge/-ts-007acc?style=for-the-badge&logo=typescript&logoColor=white"/>
    <img alt="react" title="React" src="https://custom-icon-badges.demolab.com/badge/-react-61dbfb?style=for-the-badge&logo=react&logoColor=black"/>
    <img alt="node js" title="Node JS" src="https://custom-icon-badges.demolab.com/badge/-node js-3c873a?style=for-the-badge&logo=nodejs&logoColor=white"/>
-   <img alt="django" title="Django" src="https://custom-icon-badges.demolab.com/badge/-django-092e20?style=for-the-badge&logo=django&logoColor=white"/>
+   <img alt="ejs" title="EJS" src="https://custom-icon-badges.demolab.com/badge/-ejs-90A93A?style=for-the-badge&logo=ejs&logoColor=white"/>
    <br />
    <img alt="python" title="Python" src="https://custom-icon-badges.demolab.com/badge/-python-ffde57?style=for-the-badge&logo=python&logoColor=black"/>
+   <img alt="discord py" title="Discord Py" src="https://custom-icon-badges.demolab.com/badge/-discord py-7289d9?style=for-the-badge&logo=discord&logoColor=white"/>
    <img alt="jupyter" title="Jupyter" src="https://custom-icon-badges.demolab.com/badge/-jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white"/>
    <img alt="flask" title="Flask" src="https://custom-icon-badges.demolab.com/badge/-flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+   <img alt="django" title="Django" src="https://custom-icon-badges.demolab.com/badge/-django-092e20?style=for-the-badge&logo=django&logoColor=white"/>
+   <img alt="jinja" title="Jinja" src="https://custom-icon-badges.demolab.com/badge/-jinja-000000?style=for-the-badge&logo=jinja&logoColor=white"/>
+   <br />
    <img alt="java" title="Java" src="https://custom-icon-badges.demolab.com/badge/-java-f89820?style=for-the-badge&logo=java&logoColor=white"/>
    <img alt="mysql" title="MySQL" src="https://custom-icon-badges.demolab.com/badge/-mysql-00758f?style=for-the-badge&logo=mysql&logoColor=white"/>
    <img alt="oracle" title="Oracle" src="https://custom-icon-badges.demolab.com/badge/-oracle-f80000?style=for-the-badge&logo=oracle&logoColor=white"/>
    <img alt="virtualbox" title="Virtual Box" src="https://custom-icon-badges.demolab.com/badge/-virtual box-2e3156?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+   <br />
+
 <!--    <img align="center" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
    <img align="center" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/ubuntu/ubuntu-plain.svg" />
    <img align="center" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
