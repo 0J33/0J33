@@ -36,7 +36,6 @@
    <img alt="bash" title="Bash" src="https://custom-icon-badges.demolab.com/badge/-bash-313131?style=for-the-badge&logo=bash&logoColor=black"/>
    <img alt="git" title="Git" src="https://custom-icon-badges.demolab.com/badge/-git-f34f29?style=for-the-badge&logo=git&logoColor=white"/>
    <img alt="github" title="Github" src="https://custom-icon-badges.demolab.com/badge/-github-171515?style=for-the-badge&logo=github&logoColor=white"/>
-   <img alt="aws" title="AWS" src="https://custom-icon-badges.demolab.com/badge/-aws-ffffff?style=for-the-badge&logo=aws&logoColor=black"/>
    <br />
    <img alt="html" title="HTML" src="https://custom-icon-badges.demolab.com/badge/-html-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
    <img alt="css" title="CSS" src="https://custom-icon-badges.demolab.com/badge/-css-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -59,6 +58,10 @@
    <img alt="oracle" title="Oracle" src="https://custom-icon-badges.demolab.com/badge/-oracle-f80000?style=for-the-badge&logo=oracle&logoColor=white"/>
    <img alt="virtualbox" title="Virtual Box" src="https://custom-icon-badges.demolab.com/badge/-virtual box-2e3156?style=for-the-badge&logo=virtualbox&logoColor=white"/>
    <br />
+   <img alt="aws" title="AWS" src="https://custom-icon-badges.demolab.com/badge/-aws-ffffff?style=for-the-badge&logo=aws&logoColor=black"/>
+   <img alt="cloudflare" title="Cloudflare" src="https://custom-icon-badges.demolab.com/badge/-cloudflare-f38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+   <img alt="replit" title="Replit" src="https://custom-icon-badges.demolab.com/badge/-replit-F8640A?style=for-the-badge&logo=replit&logoColor=white"/>
+   <img alt="render" title="Render" src="https://custom-icon-badges.demolab.com/badge/-render-45E0B5?style=for-the-badge&logo=render&logoColor=white"/>
 
 <!--    <img align="center" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
    <img align="center" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/ubuntu/ubuntu-plain.svg" />
