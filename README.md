@@ -36,6 +36,7 @@
    <img alt="bash" title="Bash" src="https://custom-icon-badges.demolab.com/badge/-bash-313131?style=for-the-badge&logo=bash&logoColor=black"/>
    <img alt="git" title="Git" src="https://custom-icon-badges.demolab.com/badge/-git-f34f29?style=for-the-badge&logo=git&logoColor=white"/>
    <img alt="github" title="Github" src="https://custom-icon-badges.demolab.com/badge/-github-171515?style=for-the-badge&logo=github&logoColor=white"/>
+   <img alt="aws" title="AWS" src="https://custom-icon-badges.demolab.com/badge/-aws-ffffff?style=for-the-badge&logo=aws&logoColor=black"/>
    <br />
    <img alt="html" title="HTML" src="https://custom-icon-badges.demolab.com/badge/-html-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
    <img alt="css" title="CSS" src="https://custom-icon-badges.demolab.com/badge/-css-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -44,6 +45,7 @@
    <img alt="react" title="React" src="https://custom-icon-badges.demolab.com/badge/-react-61dbfb?style=for-the-badge&logo=react&logoColor=black"/>
    <img alt="node js" title="Node JS" src="https://custom-icon-badges.demolab.com/badge/-node js-3c873a?style=for-the-badge&logo=nodejs&logoColor=white"/>
    <img alt="ejs" title="EJS" src="https://custom-icon-badges.demolab.com/badge/-ejs-90A93A?style=for-the-badge&logo=ejs&logoColor=white"/>
+   <img alt="mongo db" title="Mongo DB" src="https://custom-icon-badges.demolab.com/badge/-mongo db-589636?style=for-the-badge&logo=mongodb&logoColor=white"/>
    <br />
    <img alt="python" title="Python" src="https://custom-icon-badges.demolab.com/badge/-python-4b8bbe?style=for-the-badge&logo=python&logoColor=white"/>
    <img alt="discord py" title="Discord Py" src="https://custom-icon-badges.demolab.com/badge/-discord py-7289d9?style=for-the-badge&logo=discord&logoColor=white"/>
@@ -56,8 +58,6 @@
    <img alt="mysql" title="MySQL" src="https://custom-icon-badges.demolab.com/badge/-mysql-00758f?style=for-the-badge&logo=mysql&logoColor=white"/>
    <img alt="oracle" title="Oracle" src="https://custom-icon-badges.demolab.com/badge/-oracle-f80000?style=for-the-badge&logo=oracle&logoColor=white"/>
    <img alt="virtualbox" title="Virtual Box" src="https://custom-icon-badges.demolab.com/badge/-virtual box-2e3156?style=for-the-badge&logo=virtualbox&logoColor=white"/>
-   <img alt="mongo db" title="Mongo DB" src="https://custom-icon-badges.demolab.com/badge/-mongo db-589636?style=for-the-badge&logo=mongodb&logoColor=white"/>
-   <img alt="aws" title="AWS" src="https://custom-icon-badges.demolab.com/badge/-aws-ffffff?style=for-the-badge&logo=aws&logoColor=black"/>
    <br />
 
 <!--    <img align="center" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
