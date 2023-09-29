@@ -95,6 +95,21 @@
 
 ---
 
+   <h3 align="center">My Projects</h3>
+
+   | Project | Details | Links |
+   |----------|----------|----------|
+   | ojee.net | My website and portfolio where you will find my best projects. | [ojee.net](https://www.ojee.net) |
+   | Blue F1ag | Blue F1ag provides F1 data through graphs for fans to analyze. | [ojee.net/bluef1ag](https://www.ojee.net/bluef1ag) , [github](https://github.com/0J33/BlueF1ag) |
+   | VGS Website/Bot | CMS website development for the VGS GUC club using Django and React. / Discord bot for VGS GUC (XP System). | [vgsguc.com](https://8ead707a.vgs-react-frontend.pages.dev/) , [frontend github]() , [backend github](https://github.com/0J33/VGS-Frontend) , [bot github](https://github.com/0J33/VGS-Discord-Bot) |
+   | Nile Delta Bank | Software Engineering Project for GUC - 2023. | [vercel](https://nile-delta-bank.vercel.app/) , [github](https://github.com/0J33/nile-delta-bank)|
+   | Marvel - Ultimate War | CSEN401 Game Development Project using Java and Swing. | [github](https://github.com/0J33/MUW) |
+   | Lipton Appreciation | A website where Lipton employees can send messages to each other. | [liptonappreciation.com](https://liptonappreciation.0j33.repl.co/) , [github](https://github.com/0J33/Lipton-Appreciation) |
+   | CSEN503 Project | Networks Tourism Website Development using Mongo and EJS. | [render](https://mohabolayan.onrender.com/) , [github](https://github.com/0J33/CSEN501-Project) |
+   | CSEN501 Project | Databases I Football Ticket Website Development using MSSQL and C#/ASP.NET. | [github](https://github.com/0J33/CSEN501-Project) |
+
+---
+
 <h3 align="center">Stats</h3>
 
 <div align="center">
