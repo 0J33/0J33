@@ -33,6 +33,7 @@
    <img alt="vs" title="VS" src="https://custom-icon-badges.demolab.com/badge/-vs-603b74?style=for-the-badge&logo=visualstudio&logoColor=white"/>
    <img alt="linux" title="Linux" src="https://custom-icon-badges.demolab.com/badge/-linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
    <img alt="ubuntu" title="Ubuntu" src="https://custom-icon-badges.demolab.com/badge/-ubuntu-dd4814?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+   <img alt="debian" title="Debian" src="https://custom-icon-badges.demolab.com/badge/-debian-d70a53?style=for-the-badge&logo=debian&logoColor=white"/>
    <img alt="bash" title="Bash" src="https://custom-icon-badges.demolab.com/badge/-bash-313131?style=for-the-badge&logo=bash&logoColor=black"/>
    <img alt="git" title="Git" src="https://custom-icon-badges.demolab.com/badge/-git-f34f29?style=for-the-badge&logo=git&logoColor=white"/>
    <img alt="github" title="Github" src="https://custom-icon-badges.demolab.com/badge/-github-171515?style=for-the-badge&logo=github&logoColor=white"/>
