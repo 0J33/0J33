@@ -1,7 +1,7 @@
    <p align="center">
       <br />
       <br />
-      <img src="https://ojee.net/static/ojee.svg" />
+      <img src="https://ojee.net/res/ojee.svg" />
       <br />
       <br />
       <br />
