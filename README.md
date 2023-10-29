@@ -44,6 +44,7 @@
    <img alt="ts" title="TS" src="https://custom-icon-badges.demolab.com/badge/-ts-007acc?style=for-the-badge&logo=typescript&logoColor=white"/>
    <img alt="react" title="React" src="https://custom-icon-badges.demolab.com/badge/-react-61dbfb?style=for-the-badge&logo=react&logoColor=black"/>
    <img alt="node js" title="Node JS" src="https://custom-icon-badges.demolab.com/badge/-node js-3c873a?style=for-the-badge&logo=nodejs&logoColor=white"/>
+   <img alt="express" title="Express" src="https://custom-icon-badges.demolab.com/badge/-express-333331?style=for-the-badge&logo=express&logoColor=white"/>
    <img alt="ejs" title="EJS" src="https://custom-icon-badges.demolab.com/badge/-ejs-90A93A?style=for-the-badge&logo=ejs&logoColor=white"/>
    <br />
    <img alt="python" title="Python" src="https://custom-icon-badges.demolab.com/badge/-python-306998?style=for-the-badge&logo=python&logoColor=white"/>
