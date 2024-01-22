@@ -12,7 +12,7 @@
          <img alt="website" title="My Website" src="https://custom-icon-badges.demolab.com/badge/-ojee.net-00FFFF?style=for-the-badge&logo=globe&logoColor=black%22"/></a>
       <a href="https://ojee.net/bluef1ag">
          <img alt="website" title="Blue F1ag" src="https://custom-icon-badges.demolab.com/badge/-ojee.net/bluef1ag-000022?style=for-the-badge&logo=globe&logoColor=white%22"/></a>
-      <a href="mailto:contact@ojee.net?subiect=contact@ojee.net">
+      <a href="mailto:contact@ojee.net">
          <img alt="email" title="My email" src="https://custom-icon-badges.demolab.com/badge/-contact@ojee.net-00AAAA?style=for-the-badge&logo=mail&logoColor=white%22"/></a>
       <br />
       <a href="https://www.linkedin.com/in/omargamaleldin/">
