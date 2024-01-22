@@ -5,9 +5,6 @@
       <br />
       <br />
       <br />
-<!--       <a href="https://ojee.net">
-         <img alt="about" title="About me" src="https://custom-icon-badges.demolab.com/badge/-CSEN_student,_programmer,_and_engineer.-111111?style=for-the-badge&logo=&logoColor=black%22"/></a>
-      <br /> -->
       <a href="https://ojee.net">
          <img alt="website" title="My Website" src="https://custom-icon-badges.demolab.com/badge/-ojee.net-00FFFF?style=for-the-badge&logo=globe&logoColor=black%22"/></a>
       <a href="https://ojee.net/bluef1ag">
@@ -53,7 +50,7 @@
    <img alt="flask" title="Flask" src="https://custom-icon-badges.demolab.com/badge/-flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
    <img alt="django" title="Django" src="https://custom-icon-badges.demolab.com/badge/-django-092e20?style=for-the-badge&logo=django&logoColor=white"/>
    <img alt="jinja" title="Jinja" src="https://custom-icon-badges.demolab.com/badge/-jinja-000000?style=for-the-badge&logo=jinja&logoColor=white"/>
-      <br />
+   <br />
    <img alt="aws" title="AWS" src="https://custom-icon-badges.demolab.com/badge/-aws-ffffff?style=for-the-badge&logo=aws&logoColor=black"/>
    <img alt="cloudflare" title="Cloudflare" src="https://custom-icon-badges.demolab.com/badge/-cloudflare-f38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
    <img alt="replit" title="Replit" src="https://custom-icon-badges.demolab.com/badge/-replit-F8640A?style=for-the-badge&logo=replit&logoColor=white"/>
@@ -64,32 +61,6 @@
    <img alt="mysql" title="MySQL" src="https://custom-icon-badges.demolab.com/badge/-mysql-00758f?style=for-the-badge&logo=mysql&logoColor=white"/>
    <img alt="oracle" title="Oracle" src="https://custom-icon-badges.demolab.com/badge/-oracle-f80000?style=for-the-badge&logo=oracle&logoColor=white"/>
    <img alt="virtualbox" title="Virtual Box" src="https://custom-icon-badges.demolab.com/badge/-virtual box-2e3156?style=for-the-badge&logo=virtualbox&logoColor=white"/>
-
-
-<!--    <img align="center" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-   <img align="center" alt="Ubuntu" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/ubuntu/ubuntu-plain.svg" />
-   <img align="center" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-   <img align="center" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-   </div>
-   <br />
-   <div>
-   <img align="center" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-   <img align="center" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-   <img align="center" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-   <img align="center" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-   <img align="center" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-   <img align="center" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-   <img align="center" alt="Django" width="30px" style="padding-right:10px;" src="https://brandslogos.com/wp-content/uploads/images/large/django-logo.png" />
-   </div>
-   <br />
-   <div>
-   <img align="center" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-   <img align="center" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-   <img align="center" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-   <img align="center" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-   <img align="center" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
-   <img align="center" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-   <img align="center" alt="Oracle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" /> -->
    </div>
 </div>
 <br />
