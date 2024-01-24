@@ -79,7 +79,7 @@
    | Lipton Appreciation | A website where Lipton employees can send messages to each other. | [liptonappreciation.com](https://liptonappreciation.0j33.repl.co/) , [github](https://github.com/0J33/Lipton-Appreciation) |
    | CSEN503 Project | Networks Tourism Website Development using Mongo and EJS. | [render](https://mohabolayan.onrender.com/) , [github](https://github.com/0J33/CSEN501-Project) |
    | CSEN501 Project | Databases I Football Ticket Website Development using MSSQL and C#/ASP.NET. | [github](https://github.com/0J33/CSEN501-Project) |
-   | CSEN704 Project | Advanced Computer Lab Pharmacy Clinic Website Development using MERN Stack. | [github](https://github.com/0J33/CSEN704-Project) |
+   | CSEN704 Project | Advanced Computer Lab Pharmacy Clinic Website Development using MERN Stack. | [el7a2ny.pages.dev](https://el7a2ny.pages.dev/), [github](https://github.com/0J33/CSEN704-Project) |
 
 ---
 
