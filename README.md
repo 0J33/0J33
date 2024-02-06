@@ -76,8 +76,8 @@
    | VGS Website/Bot | CMS website development for the VGS GUC club using Django and React. / Discord bot for VGS GUC (XP System). | [vgsguc.com](https://vgs-react-frontend.pages.dev/) , [frontend github](https://github.com/0J33/VGS-Frontend) , [backend github](https://github.com/0J33/VGS-Backend) , [bot github](https://github.com/0J33/VGS-Discord-Bot) |
    | Nile Delta Bank | Software Engineering Project for GUC - 2023. | [vercel](https://nile-delta-bank.vercel.app/) , [github](https://github.com/0J33/nile-delta-bank)|
    | Marvel - Ultimate War | CSEN401 Game Development Project using Java and Swing. | [github](https://github.com/0J33/MUW) |
-   | Lipton Appreciation | A website where Lipton employees can send messages to each other. | [liptonappreciation.com](https://liptonappreciation.0j33.repl.co/) , [github](https://github.com/0J33/Lipton-Appreciation) |
-   | CSEN503 Project | Networks Tourism Website Development using Mongo and EJS. | [render](https://mohabolayan.onrender.com/) , [github](https://github.com/0J33/CSEN501-Project) |
+   | Lipton Appreciation | A website where Lipton employees can send messages to each other. |  [github](https://github.com/0J33/Lipton-Appreciation) |
+   | CSEN503 Project | Networks Tourism Website Development using Mongo and EJS. | [github](https://github.com/0J33/CSEN501-Project) |
    | CSEN501 Project | Databases I Football Ticket Website Development using MSSQL and C#/ASP.NET. | [github](https://github.com/0J33/CSEN501-Project) |
    | CSEN704 Project | Advanced Computer Lab Pharmacy Clinic Website Development using MERN Stack. | [el7a2ny.ojee.net](https://el7a2ny.ojee.net), [github](https://github.com/0J33/CSEN704-Project) |
 
