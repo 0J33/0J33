@@ -7,7 +7,7 @@
       <br />
       <a href="https://ojee.net">
          <img alt="website" title="My Website" src="https://custom-icon-badges.demolab.com/badge/-ojee.net-00FFFF?style=for-the-badge&logo=globe&logoColor=black%22"/></a>
-      <a href="https://ojee.net/bluef1ag">
+      <a href="https://bluef1ag.ojee.net">
          <img alt="website" title="Blue F1ag" src="https://custom-icon-badges.demolab.com/badge/-ojee.net/bluef1ag-000022?style=for-the-badge&logo=globe&logoColor=white%22"/></a>
       <a href="mailto:contact@ojee.net">
          <img alt="email" title="My email" src="https://custom-icon-badges.demolab.com/badge/-contact@ojee.net-00AAAA?style=for-the-badge&logo=mail&logoColor=white%22"/></a>
@@ -72,7 +72,7 @@
    | Project | Details | Links |
    |----------|----------|----------|
    | ojee.net | My website and portfolio where you will find my best projects. | [ojee.net](https://ojee.net) |
-   | Blue F1ag | Blue F1ag provides F1 data through graphs for fans to analyze. | [ojee.net/bluef1ag](https://ojee.net/bluef1ag) , [github](https://github.com/0J33/BlueF1ag) |
+   | Blue F1ag | Blue F1ag provides F1 data through graphs for fans to analyze. | [bluef1ag.ojee.net](https://bluef1ag.ojee.net) , [github](https://github.com/0J33/BlueF1ag) |
    | VGS Website/Bot | CMS website development for the VGS GUC club using Django and React. / Discord bot for VGS GUC (XP System). | [vgsguc.com](https://vgs-react-frontend.pages.dev/) , [frontend github](https://github.com/0J33/VGS-Frontend) , [backend github](https://github.com/0J33/VGS-Backend) , [bot github](https://github.com/0J33/VGS-Discord-Bot) |
    | Nile Delta Bank | Software Engineering Project for GUC - 2023. | [vercel](https://nile-delta-bank.vercel.app/) , [github](https://github.com/0J33/nile-delta-bank)|
    | Marvel - Ultimate War | CSEN401 Game Development Project using Java and Swing. | [github](https://github.com/0J33/MUW) |
