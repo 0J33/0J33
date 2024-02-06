@@ -77,7 +77,7 @@
    | Nile Delta Bank | Software Engineering Project for GUC - 2023. | [vercel](https://nile-delta-bank.vercel.app/) , [github](https://github.com/0J33/nile-delta-bank)|
    | Marvel - Ultimate War | CSEN401 Game Development Project using Java and Swing. | [github](https://github.com/0J33/MUW) |
    | Lipton Appreciation | A website where Lipton employees can send messages to each other. |  [github](https://github.com/0J33/Lipton-Appreciation) |
-   | CSEN503 Project | Networks Tourism Website Development using Mongo and EJS. | [github](https://github.com/0J33/CSEN501-Project) |
+   | CSEN503 Project | Networks Tourism Website Development using Mongo and EJS. | [github](https://github.com/0J33/CSEN503-Project) |
    | CSEN501 Project | Databases I Football Ticket Website Development using MSSQL and C#/ASP.NET. | [github](https://github.com/0J33/CSEN501-Project) |
    | CSEN704 Project | Advanced Computer Lab Pharmacy Clinic Website Development using MERN Stack. | [el7a2ny.ojee.net](https://el7a2ny.ojee.net), [github](https://github.com/0J33/CSEN704-Project) |
 
