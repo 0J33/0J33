@@ -82,16 +82,26 @@
    | CSEN704 Project | Advanced Computer Lab Pharmacy Clinic Website Development using MERN Stack. | [el7a2ny.ojee.net](https://el7a2ny.ojee.net), [github](https://github.com/0J33/CSEN704-Project) |-->
 
    <div>
-      <img alt="ojee.net" title="ojee.net" src="https://custom-icon-badges.demolab.com/badge/-ojee.net | My website and portfolio where you will find my best projects.-222222?style=for-the-badge&logo=globe&logoColor=cyan"/>
-      <img alt="Blue F1ag" title="Blue F1ag" src="https://custom-icon-badges.demolab.com/badge/-bluef1ag.ojee.net | Blue F1ag provides F1 data through graphs for fans to analyze.-333333?style=for-the-badge&logo=globe&logoColor=blue"/>
-      <img alt="VGS Website" title="VGS Website" src="https://custom-icon-badges.demolab.com/badge/-VGS Website | CMS website development for the VGS GUC club using Django and React.-222222?style=for-the-badge&logo=globe&logoColor=red"/>
-      <img alt="VGS Discord Bot" title="VGS Discord Bot" src="https://custom-icon-badges.demolab.com/badge/-VGS Discord Bot | XP and Bounty System for VGS GUC using discord.py.-333333?style=for-the-badge&logo=discordpy&logoColor="/>
-      <img alt="Nile Delta Bank" title="Nile Delta Bank" src="https://custom-icon-badges.demolab.com/badge/-Nile Delta Bank | My website and portfolio where you will find my best projects.-222222?style=for-the-badge&logo=react&logoColor="/>
-      <img alt="Marvel - Ultimate War" title="Marvel - Ultimate War" src="https://custom-icon-badges.demolab.com/badge/-Marvel: Ultimate War | CSEN401 Game Development Project using Java and Swing.-333333?style=for-the-badge&logo=java&logoColor=orange"/>
-      <img alt="Lipton Appreciation" title="Lipton Appreciation" src="https://custom-icon-badges.demolab.com/badge/-Lipton Appreciation | A website where Lipton employees can send messages to each other.-222222?style=for-the-badge&logo=flask&logoColor=black"/>
-      <img alt="CSEN503 Project" title="CSEN503 Project" src="https://custom-icon-badges.demolab.com/badge/-CSEN503 Project | Networks Tourism Website Development using Mongo and EJS.-333333?style=for-the-badge&logo=ejs&logoColor="/>
-      <img alt="CSEN501 Project" title="CSEN501 Project" src="https://custom-icon-badges.demolab.com/badge/-CSEN501 Project | Databases I Football Ticket Website Development using MSSQL and ASP.NET.-222222?style=for-the-badge&logo=c#&logoColor="/>
-      <img alt="CSEN704 Project" title="CSEN704 Project" src="https://custom-icon-badges.demolab.com/badge/-CSEN704 Project | Advanced Computer Lab Pharmacy Clinic Website Development using MERN Stack.-333333?style=for-the-badge&logo=express&logoColor=green"/>
+      <a href="https://ojee.net">
+         <img alt="ojee.net" title="ojee.net" src="https://custom-icon-badges.demolab.com/badge/-ojee.net | My website and portfolio where you will find my best projects.-222222?style=for-the-badge&logo=globe&logoColor=cyan"/></a>
+      <a href="https://bluef1agojee.net">
+         <img alt="Blue F1ag" title="Blue F1ag" src="https://custom-icon-badges.demolab.com/badge/-bluef1ag.ojee.net | Blue F1ag provides F1 data through graphs for fans to analyze.-333333?style=for-the-badge&logo=globe&logoColor=blue"/></a>
+      <a href="[https://ojee.net](https://vgs-react-frontend.pages.dev/)">
+         <img alt="VGS Website" title="VGS Website" src="https://custom-icon-badges.demolab.com/badge/-VGS Website | CMS website development for the VGS GUC club using Django and React.-222222?style=for-the-badge&logo=globe&logoColor=red"/></a>
+      <a href="https://github.com/0J33/VGS-Discord-Bot">
+         <img alt="VGS Discord Bot" title="VGS Discord Bot" src="https://custom-icon-badges.demolab.com/badge/-VGS Discord Bot | XP and Bounty System for VGS GUC using discord.py.-333333?style=for-the-badge&logo=discordpy&logoColor="/></a>
+      <a href="https://github.com/0J33/nile-delta-bank">
+         <img alt="Nile Delta Bank" title="Nile Delta Bank" src="https://custom-icon-badges.demolab.com/badge/-Nile Delta Bank | My website and portfolio where you will find my best projects.-222222?style=for-the-badge&logo=react&logoColor="/></a>
+      <a href="https://github.com/0J33/MUW">
+         <img alt="Marvel - Ultimate War" title="Marvel - Ultimate War" src="https://custom-icon-badges.demolab.com/badge/-Marvel: Ultimate War | CSEN401 Game Development Project using Java and Swing.-333333?style=for-the-badge&logo=java&logoColor=orange"/></a>
+      <a href="https://github.com/0J33/Lipton-Appreciation">
+         <img alt="Lipton Appreciation" title="Lipton Appreciation" src="https://custom-icon-badges.demolab.com/badge/-Lipton Appreciation | A website where Lipton employees can send messages to each other.-222222?style=for-the-badge&logo=flask&logoColor=black"/></a>
+      <a href="https://github.com/0J33/CSEN503-Project">
+         <img alt="CSEN503 Project" title="CSEN503 Project" src="https://custom-icon-badges.demolab.com/badge/-CSEN503 Project | Networks Tourism Website Development using Mongo and EJS.-333333?style=for-the-badge&logo=ejs&logoColor="/></a>
+      <a href="https://github.com/0J33/CSEN501-Project">
+         <img alt="CSEN501 Project" title="CSEN501 Project" src="https://custom-icon-badges.demolab.com/badge/-CSEN501 Project | Databases I Football Ticket Website Development using MSSQL and ASP.NET.-222222?style=for-the-badge&logo=c#&logoColor="/></a>
+      <a href="https://github.com/0J33/CSEN704-Project">
+         <img alt="CSEN704 Project" title="CSEN704 Project" src="https://custom-icon-badges.demolab.com/badge/-CSEN704 Project | Advanced Computer Lab Pharmacy Clinic Website Development using MERN Stack.-333333?style=for-the-badge&logo=express&logoColor=green"/></a>
       
    </div>
 
