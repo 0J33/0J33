@@ -86,7 +86,7 @@
          <img alt="ojee.net" title="ojee.net" src="https://custom-icon-badges.demolab.com/badge/-ojee.net | My website and portfolio where you will find my best projects.-222222?style=for-the-badge&logo=globe&logoColor=cyan"/></a>
       <a href="https://bluef1agojee.net">
          <img alt="Blue F1ag" title="Blue F1ag" src="https://custom-icon-badges.demolab.com/badge/-bluef1ag.ojee.net | Blue F1ag provides F1 data through graphs for fans to analyze.-333333?style=for-the-badge&logo=globe&logoColor=blue"/></a>
-      <a href="[https://ojee.net](https://vgs-react-frontend.pages.dev/)">
+      <a href="https://vgs-react-frontend.pages.dev">
          <img alt="VGS Website" title="VGS Website" src="https://custom-icon-badges.demolab.com/badge/-VGS Website | CMS website development for the VGS GUC club using Django and React.-222222?style=for-the-badge&logo=globe&logoColor=red"/></a>
       <a href="https://github.com/0J33/VGS-Discord-Bot">
          <img alt="VGS Discord Bot" title="VGS Discord Bot" src="https://custom-icon-badges.demolab.com/badge/-VGS Discord Bot | XP and Bounty System for VGS GUC using discord.py.-333333?style=for-the-badge&logo=discordpy&logoColor="/></a>
