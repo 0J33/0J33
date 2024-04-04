@@ -99,7 +99,7 @@
       <a href="https://github.com/0J33/CSEN503-Project">
          <img alt="CSEN503 Project" title="CSEN503 Project" src="https://custom-icon-badges.demolab.com/badge/-CSEN503 Project | Networks Tourism Website Development using Mongo and EJS.-333333?style=for-the-badge&logo=ejs&logoColor="/></a>
       <a href="https://github.com/0J33/CSEN501-Project">
-         <img alt="CSEN501 Project" title="CSEN501 Project" src="https://custom-icon-badges.demolab.com/badge/-CSEN501 Project | Databases I Football Ticket Website Development using MSSQL and ASP.NET.-222222?style=for-the-badge&logo=c#&logoColor="/></a>
+         <img alt="CSEN501 Project" title="CSEN501 Project" src="https://custom-icon-badges.demolab.com/badge/-CSEN501 Project | Databases I Football Ticket Website Development using MSSQL and ASP.NET.-222222?style=for-the-badge&logo=sql#&logoColor="/></a>
       <a href="https://github.com/0J33/CSEN704-Project">
          <img alt="CSEN704 Project" title="CSEN704 Project" src="https://custom-icon-badges.demolab.com/badge/-CSEN704 Project | Advanced Computer Lab Pharmacy Clinic Website Development using MERN Stack.-333333?style=for-the-badge&logo=express&logoColor=green"/></a>
       
