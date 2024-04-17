@@ -91,7 +91,7 @@
       <a href="https://github.com/0J33/VGS-Discord-Bot">
          <img alt="VGS Discord Bot" title="VGS Discord Bot" src="https://custom-icon-badges.demolab.com/badge/-VGS Discord Bot | XP and Bounty System for VGS GUC using discord.py.-333333?style=for-the-badge&logo=discordpy&logoColor="/></a>
       <a href="https://github.com/0J33/nile-delta-bank">
-         <img alt="Nile Delta Bank" title="Nile Delta Bank" src="https://custom-icon-badges.demolab.com/badge/-Nile Delta Bank | My website and portfolio where you will find my best projects.-222222?style=for-the-badge&logo=react&logoColor="/></a>
+         <img alt="Nile Delta Bank" title="Nile Delta Bank" src="https://custom-icon-badges.demolab.com/badge/-Nile Delta Bank | Software Engineering Project for GUC.-222222?style=for-the-badge&logo=react&logoColor="/></a>
       <a href="https://github.com/0J33/MUW">
          <img alt="Marvel - Ultimate War" title="Marvel - Ultimate War" src="https://custom-icon-badges.demolab.com/badge/-Marvel: Ultimate War | CSEN401 Game Development Project using Java and Swing.-333333?style=for-the-badge&logo=java&logoColor=orange"/></a>
       <a href="https://github.com/0J33/Lipton-Appreciation">
