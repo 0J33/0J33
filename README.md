@@ -52,6 +52,7 @@
    <img alt="jinja" title="Jinja" src="https://custom-icon-badges.demolab.com/badge/-jinja-000000?style=for-the-badge&logo=jinja&logoColor=white"/>
    <br />
    <img alt="aws" title="AWS" src="https://custom-icon-badges.demolab.com/badge/-aws-ffffff?style=for-the-badge&logo=aws&logoColor=black"/>
+   <img alt="firebase" title="Firebase" src="https://custom-icon-badges.demolab.com/badge/-firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white"/>
    <img alt="cloudflare" title="Cloudflare" src="https://custom-icon-badges.demolab.com/badge/-cloudflare-f38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
    <img alt="replit" title="Replit" src="https://custom-icon-badges.demolab.com/badge/-replit-F8640A?style=for-the-badge&logo=replit&logoColor=white"/>
    <img alt="render" title="Render" src="https://custom-icon-badges.demolab.com/badge/-render-45E0B5?style=for-the-badge&logo=render&logoColor=white"/>
