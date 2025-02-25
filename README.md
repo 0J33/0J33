@@ -62,6 +62,7 @@
    <img alt="mysql" title="MySQL" src="https://custom-icon-badges.demolab.com/badge/-mysql-00758f?style=for-the-badge&logo=mysql&logoColor=white"/>
    <img alt="oracle" title="Oracle" src="https://custom-icon-badges.demolab.com/badge/-oracle-f80000?style=for-the-badge&logo=oracle&logoColor=white"/>
    <img alt="virtualbox" title="Virtual Box" src="https://custom-icon-badges.demolab.com/badge/-virtual box-2e3156?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+   <img alt="vmware" title="VMWare" src="https://custom-icon-badges.demolab.com/badge/-vmware-2e3156?style=for-the-badge&logo=vmware&logoColor=white"/>
    </div>
 </div>
 <br />
