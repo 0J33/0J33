@@ -8,7 +8,7 @@
       <a href="https://ojee.net">
          <img alt="website" title="My Website" src="https://custom-icon-badges.demolab.com/badge/-ojee.net-00FFFF?style=for-the-badge&logo=globe&logoColor=black%22"/></a>
       <a href="https://bluef1ag.ojee.net">
-         <img alt="website" title="Blue F1ag" src="https://custom-icon-badges.demolab.com/badge/-bluef1ag.ojee.net-000022?style=for-the-badge&logo=globe&logoColor=white%22"/></a>
+         <img alt="website" title="Blue F1ag" src="https://custom-icon-badges.demolab.com/badge/-bluef1ag.ojee.net-000022?style=for-the-badge&logo=flag&logoColor=white%22"/></a>
       <a href="mailto:contact@ojee.net">
          <img alt="email" title="My email" src="https://custom-icon-badges.demolab.com/badge/-contact@ojee.net-00AAAA?style=for-the-badge&logo=mail&logoColor=white%22"/></a>
       <br />
@@ -87,7 +87,7 @@
       <a href="https://ojee.net">
          <img alt="ojee.net" title="ojee.net" src="https://custom-icon-badges.demolab.com/badge/-ojee.net | My website and portfolio where you will find my best projects.-222222?style=for-the-badge&logo=globe&logoColor=cyan"/></a>
       <a href="https://bluef1ag.ojee.net">
-         <img alt="Blue F1ag" title="Blue F1ag" src="https://custom-icon-badges.demolab.com/badge/-bluef1ag.ojee.net | Blue F1ag provides F1 data through graphs for fans to analyze.-333333?style=for-the-badge&logo=globe&logoColor=blue"/></a>
+         <img alt="Blue F1ag" title="Blue F1ag" src="https://custom-icon-badges.demolab.com/badge/-bluef1ag.ojee.net | Blue F1ag provides F1 data through graphs for fans to analyze.-333333?style=for-the-badge&logo=flag&logoColor=blue"/></a>
       <a href="https://vgs-react-frontend.pages.dev">
          <img alt="VGS Website" title="VGS Website" src="https://custom-icon-badges.demolab.com/badge/-VGS Website | CMS website development for the VGS GUC club using Django and React.-222222?style=for-the-badge&logo=globe&logoColor=red"/></a>
       <a href="https://github.com/0J33/VGS-Discord-Bot">
