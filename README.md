@@ -60,7 +60,7 @@
    <img alt="firebase" title="Firebase" src="https://custom-icon-badges.demolab.com/badge/-gcp-ffffff?style=for-the-badge&logo=googlecloud&logoColor=black"/>
    <img alt="cloudflare" title="Cloudflare" src="https://custom-icon-badges.demolab.com/badge/-cloudflare-f38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
    <img alt="replit" title="Replit" src="https://custom-icon-badges.demolab.com/badge/-replit-F8640A?style=for-the-badge&logo=replit&logoColor=white"/>
-   <img alt="render" title="Render" src="https://custom-icon-badges.demolab.com/badge/-render-45E0B5?style=for-the-badge&logo=render&logoColor=white"/>
+   <img alt="render" title="Render" src="https://custom-icon-badges.demolab.com/badge/-render-0d0d0d?style=for-the-badge&logo=render&logoColor=white"/>
    <img alt="mongo db" title="Mongo DB" src="https://custom-icon-badges.demolab.com/badge/-mongo db-589636?style=for-the-badge&logo=mongodb&logoColor=white"/>
    <br />
    <img alt="java" title="Java" src="https://custom-icon-badges.demolab.com/badge/-java-f89820?style=for-the-badge&logo=java&logoColor=white"/>
