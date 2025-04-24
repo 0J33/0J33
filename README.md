@@ -6,7 +6,7 @@
       <br />
       <br />
       <a href="https://ojee.net">
-         <img alt="website" title="My Website" src="https://custom-icon-badges.demolab.com/badge/-ojee.net-000000?style=for-the-badge&logo=globe&logoColor=white"/></a>
+         <img alt="website" title="My Website" src="https://custom-icon-badges.demolab.com/badge/-ojee.net-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDEwMDAgMTAwMCIgd2lkdGg9IjEwMDAiIGhlaWdodD0iMTAwMCI+Cgk8dGl0bGU+TmV3IFByb2plY3Q8L3RpdGxlPgoJPHN0eWxlPgoJCS5zMCB7IGZpbGw6ICMwMDAwMDA7c3Ryb2tlOiAjMDAwMDAwO3N0cm9rZS1taXRlcmxpbWl0OjEwIH0gCgkJLnMxIHsgZmlsbDogI2ZmZmZmZiB9IAoJPC9zdHlsZT4KCTxnIGlkPSJMYXllciAxIj4KCQk8cGF0aCBpZD0iU2hhcGUgMSIgZmlsbC1ydWxlPSJldmVub2RkIiBjbGFzcz0iczAiIGQ9Im0xMDAwIDB2MTAwMGgtMTAwMHYtMTAwMHoiLz4KCQk8cGF0aCBpZD0ibyIgY2xhc3M9InMxIiBhcmlhLWxhYmVsPSJvIiAgZD0ibTExNC4yIDUwMS45cTAtMTUzLjggMTAzLjgtMjUzLjEgMTAzLjgtMTAwIDI4MC4zLTEwMCAyMDEuOSAwIDMwNSAxMTcgODIuOSA5NC4zIDgyLjkgMjMyLjMgMCAxNTUtMTAzLjEgMjU0LjQtMTAyLjUgOTguNy0yODQuMiA5OC43LTE2MiAwLTI2MS45LTgyLjMtMTIyLjgtMTAxLjktMTIyLjgtMjY3em0yNTguMi0wLjdxMCA4OS45IDM2LjEgMTMyLjkgMzYuNyA0My4xIDkxLjcgNDMuMSA1NS43IDAgOTEuMS00Mi40IDM2LjEtNDIuNCAzNi4xLTEzNi4xIDAtODcuMy0zNi4xLTEyOS43LTM2LTQzLTg5LjItNDMtNTYuMyAwLTkzIDQzLjYtMzYuNyA0My0zNi43IDEzMS42eiIvPgoJPC9nPgo8L3N2Zz4="/></a>
       <a href="https://bluef1ag.ojee.net">
          <img alt="website" title="Blue F1ag" src="https://custom-icon-badges.demolab.com/badge/-bluef1ag.ojee.net-000000?style=for-the-badge&logo=flag&logoColor=00ffff"/></a>
       <a href="mailto:contact@ojee.net">
