@@ -56,8 +56,8 @@
    <img alt="django" title="Django" src="https://custom-icon-badges.demolab.com/badge/-django-092e20?style=for-the-badge&logo=django&logoColor=white"/>
    <img alt="jinja" title="Jinja" src="https://custom-icon-badges.demolab.com/badge/-jinja-000000?style=for-the-badge&logo=jinja&logoColor=white"/>
    <br />
-   <img alt="aws" title="AWS" src="https://custom-icon-badges.demolab.com/badge/-aws-232f3e?style=for-the-badge&logo=aws&logoColor=white"/>
-   <img alt="firebase" title="Firebase" src="https://custom-icon-badges.demolab.com/badge/-gcp-ffffff?style=for-the-badge&logo=googlecloud&logoColor=black"/>
+   <img alt="aws" title="AWS" src="https://custom-icon-badges.demolab.com/badge/-aws-ffffff?style=for-the-badge&logo=aws&logoColor="/>
+   <img alt="gcp" title="GCP" src="https://custom-icon-badges.demolab.com/badge/-gcp-ffffff?style=for-the-badge&logo=gcp&logoColor="/>
    <img alt="cloudflare" title="Cloudflare" src="https://custom-icon-badges.demolab.com/badge/-cloudflare-f38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
    <img alt="replit" title="Replit" src="https://custom-icon-badges.demolab.com/badge/-replit-F8640A?style=for-the-badge&logo=replit&logoColor=white"/>
    <img alt="render" title="Render" src="https://custom-icon-badges.demolab.com/badge/-render-0d0d0d?style=for-the-badge&logo=render&logoColor=white"/>
@@ -90,11 +90,11 @@
 
    <div>
       <a href="https://ojee.net">
-         <img alt="ojee.net" title="ojee.net" src="https://custom-icon-badges.demolab.com/badge/-ojee.net | My website and portfolio where you will find my best projects.-222222?style=for-the-badge&logo=globe&logoColor=cyan"/></a>
+         <img alt="ojee.net" title="ojee.net" src="https://custom-icon-badges.demolab.com/badge/-ojee.net | My website and portfolio where you will find my best projects.-222222?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMiIgdmlld0JveD0iMCAwIDEwMDAgMTAwMCIgd2lkdGg9IjEwMDAiIGhlaWdodD0iMTAwMCI+Cgk8dGl0bGU+TmV3IFByb2plY3Q8L3RpdGxlPgoJPHN0eWxlPgoJCS5zMSB7IGZpbGw6ICNmZmZmZmYgfSAKCTwvc3R5bGU+Cgk8ZyBpZD0iTGF5ZXIgMSI+CgkJPHBhdGggaWQ9Im8iIGNsYXNzPSJzMSIgYXJpYS1sYWJlbD0ibyIgZD0ibTExNC4yIDUwMS45cTAtMTUzLjggMTAzLjgtMjUzLjEgMTAzLjgtMTAwIDI4MC4zLTEwMCAyMDEuOSAwIDMwNSAxMTcgODIuOSA5NC4zIDgyLjkgMjMyLjMgMCAxNTUtMTAzLjEgMjU0LjQtMTAyLjUgOTguNy0yODQuMiA5OC43LTE2MiAwLTI2MS45LTgyLjMtMTIyLjgtMTAxLjktMTIyLjgtMjY3em0yNTguMi0wLjdxMCA4OS45IDM2LjEgMTMyLjkgMzYuNyA0My4xIDkxLjcgNDMuMSA1NS43IDAgOTEuMS00Mi40IDM2LjEtNDIuNCAzNi4xLTEzNi4xIDAtODcuMy0zNi4xLTEyOS43LTM2LTQzLTg5LjItNDMtNTYuMyAwLTkzIDQzLjYtMzYuNyA0My0zNi43IDEzMS42eiIvPgoJPC9nPgo8L3N2Zz4K"/></a>
       <a href="https://bluef1ag.ojee.net">
-         <img alt="Blue F1ag" title="Blue F1ag" src="https://custom-icon-badges.demolab.com/badge/-bluef1ag.ojee.net | Blue F1ag provides F1 data through graphs for fans to analyze.-333333?style=for-the-badge&logo=flag&logoColor=blue"/></a>
+         <img alt="Blue F1ag" title="Blue F1ag" src="https://custom-icon-badges.demolab.com/badge/-bluef1ag.ojee.net | Blue F1ag provides F1 data through graphs for fans to analyze.-333333?style=for-the-badge&logo=flag&logoColor=00ffff"/></a>
       <a href="https://vgs-react-frontend.pages.dev">
-         <img alt="VGS Website" title="VGS Website" src="https://custom-icon-badges.demolab.com/badge/-VGS Website | CMS website development for the VGS GUC club using Django and React.-222222?style=for-the-badge&logo=globe&logoColor=red"/></a>
+         <img alt="VGS Website" title="VGS Website" src="https://custom-icon-badges.demolab.com/badge/-VGS Website | CMS website development for the VGS GUC club using Django and React.-222222?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBjbGFzc05hbWU9InZncy1pY29uIiBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MjIuNzUgNjQwIiB3aWR0aD0iNTAwcHgiIGhlaWdodD0iNzAwcHgiPjxwb2x5bGluZSBwb2ludHM9IjUyMi43NSA1Ny4zOCA0NzUuMjYgOTYuNDIgNDI3Ljc3IDEzNS40NyAzODAuMjcgMTc0LjE4IDMzMi43OCAyMTMuMjIgMjg0Ljk1IDI1Mi4yNiAyODQuOTUgMzI5LjY4IDI4NC45NSA0MDcuNDMgMjg0LjYxIDQ4NC44NCAzMzIuMTEgNDQ1Ljc5IDM3OS45NCA0MDcuMDkgNDI3LjQzIDM2OC4wNCA0NzQuOTIgMzI5IDQ3NC45MiA0MDYuNDEgNDI3LjA5IDQ0NS40NSAzNzkuNiA0ODQuNSAzMzIuMTEgNTIzLjU0IDI4NC42MSA1NjIuNTkgMjg0LjI3IDY0MCAzMzEuNzcgNjAwLjk2IDM3OS42IDU2MS45MSA0MjcuMDkgNTIzLjIgNDc0LjU4IDQ4NC4xNiA1MjIuMDcgNDQ1LjExIDUyMi40MSAzNjcuNyA1MjIuNDEgMjg5Ljk1IDUyMi43NSAyMTIuNTQgNDc0LjkyIDI1MS41OSA0MjcuNDMgMjkwLjI5IDM3OS45NCAzMjkuMzQgMzMyLjQ0IDM2OC4zOCAzMzIuNDQgMjkwLjk3IDM4MC4yNyAyNTEuOTMgNDI3Ljc3IDIxMi44OCA0NzUuMjYgMTczLjg0IDUyMi43NSAxMzQuNzkgNTIyLjc1IDU3LjM4IiBmaWxsPSIjZmZmZmZmIi8+PHBvbHlnb24gcG9pbnRzPSI1MjIuNzUgMCAyNjIuMjIgMjEzLjkgMCAwIDEwNC40OCAwIDI2MS44OCAxMjguMzQgNDE4LjI3IDAgNTIyLjc1IDAiIGZpbGw9IiNDRDFBNEYiLz48cG9seWxpbmUgcG9pbnRzPSIyMzkuODQgMjUyLjI2IDE5MiAyMTMuMjIgMTQ0LjE3IDE3NC4xOCA5Ni4zNCAxMzUuNDcgNDguNTEgOTYuNDIgMC42OCA1Ny4zOCAwLjM0IDEzNS4xMyAwLjM0IDIxMi41NCAwIDI4OS45NSAwIDM2Ny43IDAgNDQ1LjExIDQ3LjgzIDQ4NC4xNiA5NS42NiA1MjMuMiAxNDMuNDkgNTYxLjkxIDE5MS4zMiA2MDAuOTYgMjM5LjE2IDY0MCAyMzkuNSA1NjIuNTkgMjM5LjUgNDg0Ljg0IDIzOS44NCA0MDcuNDMgMTkxLjY2IDM2OC4zOCAxNDMuODMgMzI5LjM0IDk2IDI5MC4yOSA5NiAzNjguMDQgMTQzLjgzIDQwNy4wOSAxOTEuNjYgNDQ1Ljc5IDE5MS42NiA1MjMuNTQgMTQzLjQ5IDQ4NC41IDk1LjY2IDQ0NS40NSA0Ny44MyA0MDYuNDEgNDguMTcgMzI5IDQ4LjE3IDI1MS41OSA0OC41MSAxNzMuODQgOTYuMzQgMjEyLjg4IDE0NC4xNyAyNTEuOTMgMTkyIDI5MC45NyAyMzkuODQgMzI5LjY4IDIzOS44NCAyNTIuMjYiIGZpbGw9IiMzM0I0QzEiLz48L3N2Zz4K"/></a>
       <a href="https://github.com/0J33/VGS-Discord-Bot">
          <img alt="VGS Discord Bot" title="VGS Discord Bot" src="https://custom-icon-badges.demolab.com/badge/-VGS Discord Bot | XP and Bounty System for VGS GUC using discord.py.-333333?style=for-the-badge&logo=discordpy&logoColor="/></a>
       <a href="https://github.com/0J33/nile-delta-bank">
@@ -102,11 +102,11 @@
       <a href="https://github.com/0J33/MUW">
          <img alt="Marvel - Ultimate War" title="Marvel - Ultimate War" src="https://custom-icon-badges.demolab.com/badge/-Marvel: Ultimate War | CSEN401 Game Development Project using Java and Swing.-333333?style=for-the-badge&logo=java&logoColor=orange"/></a>
       <a href="https://github.com/0J33/Lipton-Appreciation">
-         <img alt="Lipton Appreciation" title="Lipton Appreciation" src="https://custom-icon-badges.demolab.com/badge/-Lipton Appreciation | A website where Lipton employees can send messages to each other.-222222?style=for-the-badge&logo=flask&logoColor=black"/></a>
+         <img alt="Lipton Appreciation" title="Lipton Appreciation" src="https://custom-icon-badges.demolab.com/badge/-Lipton Appreciation | A website where Lipton employees can send messages to each other.-222222?style=for-the-badge&logo=flask&logoColor=white"/></a>
       <a href="https://github.com/0J33/CSEN503-Project">
          <img alt="CSEN503 Project" title="CSEN503 Project" src="https://custom-icon-badges.demolab.com/badge/-CSEN503 Project | Networks Tourism Website Development using Mongo and EJS.-333333?style=for-the-badge&logo=ejs&logoColor="/></a>
       <a href="https://github.com/0J33/CSEN501-Project">
-         <img alt="CSEN501 Project" title="CSEN501 Project" src="https://custom-icon-badges.demolab.com/badge/-CSEN501 Project | Databases I Football Ticket Website Development using MSSQL and ASP.NET.-222222?style=for-the-badge&logo=sql#&logoColor="/></a>
+         <img alt="CSEN501 Project" title="CSEN501 Project" src="https://custom-icon-badges.demolab.com/badge/-CSEN501 Project | Databases I Football Ticket Website Development using MSSQL and ASP.NET.-222222?style=for-the-badge&logo=sql&logoColor=white"/></a>
       <a href="https://github.com/0J33/CSEN704-Project">
          <img alt="CSEN704 Project" title="CSEN704 Project" src="https://custom-icon-badges.demolab.com/badge/-CSEN704 Project | Advanced Computer Lab Pharmacy Clinic Website Development using MERN Stack.-333333?style=for-the-badge&logo=express&logoColor=green"/></a>
       
