@@ -43,7 +43,7 @@
    <img alt="github" title="Github" src="https://custom-icon-badges.demolab.com/badge/-github-171515?style=for-the-badge&logo=github&logoColor=white"/>
    <br />
    <img alt="html" title="HTML" src="https://custom-icon-badges.demolab.com/badge/-html-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
-   <img alt="css" title="CSS" src="https://custom-icon-badges.demolab.com/badge/-css-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
+   <img alt="css" title="CSS" src="https://custom-icon-badges.demolab.com/badge/-css-264de4?style=for-the-badge&logo=css3"/>
    <img alt="js" title="JS" src="https://custom-icon-badges.demolab.com/badge/-js-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black"/>
    <img alt="ts" title="TS" src="https://custom-icon-badges.demolab.com/badge/-ts-007acc?style=for-the-badge&logo=typescript&logoColor=white"/>
    <img alt="react" title="React" src="https://custom-icon-badges.demolab.com/badge/-react-61dbfb?style=for-the-badge&logo=react&logoColor=black"/>
