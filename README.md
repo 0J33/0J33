@@ -129,7 +129,11 @@
    <br /><br />
    
    ![0J33's GitHub stats](https://github-readme-stats.vercel.app/api?username=0J33&show_icons=true&theme=react&rank_icon=github&hide=issues,contribs,stars)
-   <br />
+
    ![GitHub Streak](https://streak-stats.demolab.com?user=0J33&theme=react&border_radius=4.5)
+
+   ![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs?username=0J33&theme=react&border_radius=4.5)
+
+   <!-- ![Trophy](https://github-profile-trophy.vercel.app/?username=0J33&theme=react&border_radius=4.5) -->
    
 </div>
