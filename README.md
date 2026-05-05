@@ -100,9 +100,9 @@
    <br /><br />
 
    ![GitHub Streak](https://streak-stats.demolab.com?user=0J33&theme=dark&background=0e0d0a&stroke=0e0d0a&ring=00ffff&fire=00ffff&currStreakLabel=00ffff&sideLabels=e8e6df&sideNums=00ffff&dates=a8a59c&currStreakNum=e8e6df&hide_border=true)
-
+   <!--
    ![0J33's GitHub stats](https://github-readme-stats.vercel.app/api?username=0J33&show_icons=true&theme=dark&bg_color=0e0d0a&title_color=00ffff&icon_color=00ffff&text_color=e8e6df&hide_border=true&rank_icon=github&hide=issues,contribs,stars)
 
    ![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs?username=0J33&theme=dark&bg_color=0e0d0a&title_color=00ffff&text_color=e8e6df&hide_border=true)
-
+   -->
 </div>
