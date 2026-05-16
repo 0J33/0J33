@@ -33,7 +33,7 @@
 
 <div align="center">
    <div>
-   <img alt="vs code" title="VS Code" src="https://img.shields.io/badge/-vs_code-0e0d0a?style=for-the-badge&logo=vscodium&logoColor=00ffff"/>
+   <img alt="claude" title="Claude" src="https://img.shields.io/badge/-claude-0e0d0a?style=for-the-badge&logo=claude&logoColor=00ffff"/>
    <img alt="linux" title="Linux" src="https://custom-icon-badges.demolab.com/badge/-linux-0e0d0a?style=for-the-badge&logo=linux&logoColor=00ffff"/>
    <img alt="ubuntu" title="Ubuntu" src="https://custom-icon-badges.demolab.com/badge/-ubuntu-0e0d0a?style=for-the-badge&logo=ubuntu&logoColor=00ffff"/>
    <img alt="bash" title="Bash" src="https://img.shields.io/badge/-bash-0e0d0a?style=for-the-badge&logo=gnubash&logoColor=00ffff"/>
@@ -47,6 +47,7 @@
    <img alt="js" title="JS" src="https://custom-icon-badges.demolab.com/badge/-js-0e0d0a?style=for-the-badge&logo=javascript&logoColor=00ffff"/>
    <img alt="ts" title="TS" src="https://custom-icon-badges.demolab.com/badge/-ts-0e0d0a?style=for-the-badge&logo=typescript&logoColor=00ffff"/>
    <img alt="react" title="React" src="https://custom-icon-badges.demolab.com/badge/-react-0e0d0a?style=for-the-badge&logo=react&logoColor=00ffff"/>
+   <img alt="react" title="React Native" src="https://custom-icon-badges.demolab.com/badge/-react_native-0e0d0a?style=for-the-badge&logo=react&logoColor=00ffff"/>
    <img alt="vite" title="Vite" src="https://custom-icon-badges.demolab.com/badge/-vite-0e0d0a?style=for-the-badge&logo=vite&logoColor=00ffff"/>
    <br />
    <img alt="node js" title="Node JS" src="https://custom-icon-badges.demolab.com/badge/-node js-0e0d0a?style=for-the-badge&logo=nodejs&logoColor=00ffff"/>
@@ -80,10 +81,12 @@
 | :--- | :--- | :--- |
 | **pitvisor** | F1 data visualization platform with interactive graphs for race statistics, driver performance, and historical data. Includes a Discord bot. | [pitvisor.ojee.net](https://pitvisor.ojee.net) |
 | **Forsa Property** | Real estate marketplace platform. Tech lead on the main marketplace product, building the core property listing and search experience. | [forsaprop.com](https://forsaprop.com) |
+| **secrets.ojee.net** | Interactive simulator for "Algebraic Logic of Secrets" (BSc thesis). Build epistemic models, evaluate secret-knowledge formulas, step through axioms and theorems with KaTeX-rendered logic. | [secrets.ojee.net](https://secrets.ojee.net) |
 | **mtg.ojee.net** | Online MTG tabletop for any format with friends. Real-time multiplayer, deck building, Moxfield import, live cursors. | [mtg.ojee.net](https://mtg.ojee.net) |
 | **monopoly.ojee.net** | Online multiplayer Monopoly clone. Full ruleset with auctions, trades, mortgage, houses/hotels, custom boards, chat, procedural sound. | [monopoly.ojee.net](https://monopoly.ojee.net) |
 | **Marvel Ultimate War** | Online multiplayer port of a Java Swing tactical combat game. 5×5 grid, draft three champions per side, online rooms via invite code, hotseat, heuristic AI. | [muw.ojee.net](https://muw.ojee.net) |
 | **LOQ Control** | Desktop control center for Lenovo LOQ laptops on Linux. Real-time CPU/GPU monitoring, performance profiles, battery management, hardware controls. | [0J33/loq-control](https://github.com/0J33/loq-control) |
+| **agent.ojee.net** | Self-hosted AI agent + automation stack. Custom dashboard with tool-using chat (web search, file reads, n8n workflow CRUD, live stats) wired to local Ollama, alongside Open WebUI, n8n, and CouchDB. Dockerized behind Caddy with Cloudflare DNS-01 TLS. | [agent.ojee.net](https://agent.ojee.net) |
 
 ---
 
