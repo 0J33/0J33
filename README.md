@@ -83,8 +83,6 @@
 | **Forsa Property** | Real estate marketplace platform. Tech lead on the main marketplace product, building the core property listing and search experience. | [forsaprop.com](https://forsaprop.com) |
 | **secrets.ojee.net** | Interactive simulator for "Algebraic Logic of Secrets" (BSc thesis). Build epistemic models, evaluate secret-knowledge formulas, step through axioms and theorems with KaTeX-rendered logic. | [secrets.ojee.net](https://secrets.ojee.net) |
 | **mtg.ojee.net** | Online MTG tabletop for any format with friends. Real-time multiplayer, deck building, Moxfield import, live cursors. | [mtg.ojee.net](https://mtg.ojee.net) |
-| **monopoly.ojee.net** | Online multiplayer Monopoly clone. Full ruleset with auctions, trades, mortgage, houses/hotels, custom boards, chat, procedural sound. | [monopoly.ojee.net](https://monopoly.ojee.net) |
-| **Marvel Ultimate War** | Online multiplayer port of a Java Swing tactical combat game. 5×5 grid, draft three champions per side, online rooms via invite code, hotseat, heuristic AI. | [muw.ojee.net](https://muw.ojee.net) |
 | **LOQ Control** | Desktop control center for Lenovo LOQ laptops on Linux. Real-time CPU/GPU monitoring, performance profiles, battery management, hardware controls. | [0J33/loq-control](https://github.com/0J33/loq-control) |
 | **agent.ojee.net** | Self-hosted AI agent + automation stack. Custom dashboard with tool-using chat (web search, file reads, n8n workflow CRUD, live stats) wired to local Ollama, alongside Open WebUI, n8n, and CouchDB. Dockerized behind Caddy with Cloudflare DNS-01 TLS. | [agent.ojee.net](https://agent.ojee.net) |
 
