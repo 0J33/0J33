@@ -29,7 +29,7 @@
 
 ---
 
-<h3 align="center">Languages and Tools</h3>
+<!-- <h3 align="center">Languages and Tools</h3>
 
 <div align="center">
    <div>
@@ -73,9 +73,9 @@
 </div>
 <br />
 
----
+-->
 
-<h3 align="center">My Projects</h3>
+<!-- <h3 align="center">My Projects</h3>
 
 | Project | Description | Link |
 | :--- | :--- | :--- |
@@ -86,7 +86,7 @@
 | **LOQ Control** | Desktop control center for Lenovo LOQ laptops on Linux. Real-time CPU/GPU monitoring, performance profiles, battery management, hardware controls. | [0J33/loq-control](https://github.com/0J33/loq-control) |
 | **agent.ojee.net** | Self-hosted AI agent + automation stack. Custom dashboard with tool-using chat (web search, file reads, n8n workflow CRUD, live stats) wired to local Ollama, alongside Open WebUI, n8n, and CouchDB. Dockerized behind Caddy with Cloudflare DNS-01 TLS. | [agent.ojee.net](https://agent.ojee.net) |
 
----
+-->
 
 <h3 align="center">Stats</h3>
 
@@ -100,8 +100,9 @@
       <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/0J33?color=00ffff&style=for-the-badge&labelColor=0e0d0a&logo=star&logoColor=0e0d0a"/></a>
    <br /><br />
 
-   ![GitHub Streak](https://streak-stats.demolab.com?user=0J33&theme=dark&background=0e0d0a&stroke=0e0d0a&ring=00ffff&fire=00ffff&currStreakLabel=00ffff&sideLabels=e8e6df&sideNums=00ffff&dates=a8a59c&currStreakNum=e8e6df&hide_border=true)
    <!--
+   ![GitHub Streak](https://streak-stats.demolab.com?user=0J33&theme=dark&background=0e0d0a&stroke=0e0d0a&ring=00ffff&fire=00ffff&currStreakLabel=00ffff&sideLabels=e8e6df&sideNums=00ffff&dates=a8a59c&currStreakNum=e8e6df&hide_border=true)
+   
    ![0J33's GitHub stats](https://github-readme-stats.vercel.app/api?username=0J33&show_icons=true&theme=dark&bg_color=0e0d0a&title_color=00ffff&icon_color=00ffff&text_color=e8e6df&hide_border=true&rank_icon=github&hide=issues,contribs,stars)
 
    ![Most Used Langs](https://github-readme-stats.vercel.app/api/top-langs?username=0J33&theme=dark&bg_color=0e0d0a&title_color=00ffff&text_color=e8e6df&hide_border=true)
